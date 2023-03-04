@@ -1,12 +1,13 @@
 # UCF101 
 
-Original dataset used for human action recognition in videos, provided by the Center for Research in Computer Vision at the University of Central Florida.
+Dataset used for human action recognition in videos, provided by the Center for Research in Computer Vision at the University of Central Florida.
 
-no. of videos:
+no. of videos: 13320
 
-no. of classes:
+no. of classes: 101 action categories 
 
-list of classes:
+list of classes: in 5 categories
+1)Human-Object Interaction 2) Body-Motion Only 3) Human-Human Interaction 4) Playing Musical Instruments 5) Sports.
 
 lisencing type:
 
