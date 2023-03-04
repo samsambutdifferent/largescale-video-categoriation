@@ -1,1 +1,11 @@
 .env
+.ipynb_checkpoints
+.DS_STORE
+
+# ucf101:
+/ucf101/data/*
+/ucf101/UCF101.rar
+/ucf101/UCF101TrainTestSplits-RecognitionTask.zip
+/ucf101/ucfTrainTestlist
+/ucf101/train/*
+/ucf101/test/*
