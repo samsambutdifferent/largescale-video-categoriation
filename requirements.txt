@@ -3,3 +3,10 @@ tensorflow
 pandas
 IPython
 google-cloud
+
+# UCF101
+tensorflow
+imutils
+numpy
+imageio
+opencv-python
