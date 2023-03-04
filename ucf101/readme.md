@@ -1,4 +1,16 @@
-# UCF101 playtime
+# UCF101 
+
+Original dataset used for human action recognition in videos, provided by the Center for Research in Computer Vision at the University of Central Florida.
+
+no. of videos:
+
+no. of classes:
+
+list of classes:
+
+lisencing type:
+
+example references by other papers:
 
 ### useful links
 
