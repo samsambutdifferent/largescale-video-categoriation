@@ -1,0 +1,5 @@
+# YT8M
+tensorflow
+pandas
+IPython
+google-cloud
